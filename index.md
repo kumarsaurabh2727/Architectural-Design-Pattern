@@ -1,10 +1,10 @@
 ## Architectural Design Pattern
 Welcome to my documentation website.
 
-[Introduction](Introduction to Design Pattern.md)
+[Introduction](introduction-to-design-pattern.md)
 
-[Singleton Design Pattern](Singleton Design Pattern.md)
+[Singleton Design Pattern](singleton-design-pattern.md)
 
-[Abstract Factory Design pattern](Abstract Factory.md)
+[Abstract Factory Design pattern](abstract-factory.md)
 
-[Factory Method](Factory Method.md)
+[Factory Method](factory-method.md)
